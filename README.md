@@ -9,6 +9,8 @@
     - Tuning model 
     
  - Store Sales - Time Series Forescasting 
-    -Time series 
+    - Data Exploration
+    - Time series 
+    - Hybrid modelling
 
 
